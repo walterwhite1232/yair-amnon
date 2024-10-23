@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    color: white;
+
+}
+
+body {
+    background-image: url(pictur/photo-1564186763535-ebb21ef5277f.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.penis {
+    color: white;
+}
+
+img {
+    height: 500px;
+
+}
+
+.poopoo {
+    display: flex;
+    justify-content: center;
+}
